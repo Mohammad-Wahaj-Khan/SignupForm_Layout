@@ -1,0 +1,29 @@
+.select{
+    width: 220px;
+    height: 30px;
+}
+.outer{  
+    margin:auto; 
+    height:320px; 
+    width:400px; 
+    border:2px solid black; 
+    position:relative 
+    } 
+.wow{  
+    margin:auto;
+    width:450px; 
+    border:2px solid black; 
+    position:relative 
+    } 
+*{
+    background-color: hotpink;
+    /* background-color: #bc2a8d; */
+    /* background-color: #fccc63; */
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}
